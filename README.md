@@ -1,7 +1,7 @@
 
 # Node Classification and Product Recommendation using GraphSAGE
 
-Nurjahan | Spring 2025 | CSC 7700 Web Search
+Nurjahan, Nushrat Jahan Ria, Tanzila Tabassum | Spring 2025 | CSC 7700 Web Search
 
 ---
 
@@ -80,7 +80,7 @@ This shows how **GraphSAGE embeddings** can be used not only for classification 
 ├── README.md           # Project documentation
 ├── GraphSAGE_Presentation_Nurjahan.pptx  # Final presentation slides
 ├── models/
-│   └── graphsage_ogbnproducts.pt   # Trained model weights
+│   └── graphsage_trained_model.pth   # Trained model weights
 ├── data/
 │   └── products/ogbn_products/     # Dataset and label mapping
 ```
@@ -125,6 +125,5 @@ Modify `inference()` method to output hidden vectors, and run inference.
 
 ## Author
 
-**Nurjahan**  
 PhD Student, Louisiana State University  
 CSC 7700 Web Search, Spring 2025
