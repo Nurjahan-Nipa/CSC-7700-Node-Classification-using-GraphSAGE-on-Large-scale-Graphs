@@ -120,6 +120,7 @@ Modify `inference()` method to output hidden vectors, and run inference.
 - Open Graph Benchmark (OGB) Team
 - PyTorch Geometric (PyG) Library
 - Streamlit Team for rapid app development tools
+- https://towardsdatascience.com/a-comprehensive-case-study-of-graphsage-algorithm-with-hands-on-experience-using-pytorchgeometric-6fc631ab1067/ 
 
 ---
 
